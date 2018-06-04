@@ -1,1 +1,1 @@
-# ipynb-share
+# How I share my Jupyter Notebooks
