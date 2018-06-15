@@ -1,2 +1,5 @@
 # ignore jupyter checkpoint folders
 *.ipynb_checkpoints*
+
+PyCharm Project settings
+.idea
