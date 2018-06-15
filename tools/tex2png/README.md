@@ -8,3 +8,7 @@ the the python kernel to timeout.
 Needed python packages:
   - PIL
   - matplotlib
+  
+## Troubleshooting 
+If you have problems with the code running you can also have a look at the 
+[matplotlib documentation for tex rendering](https://matplotlib.org/users/usetex.html).
