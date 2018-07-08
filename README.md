@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/s-weigand/ipynb-share/master?urlpath=lab)
+
 # How I share my Jupyter Notebooks
 
 ## How to use the Notebooks with Jupyter Lab
@@ -39,3 +41,7 @@ or
 
 If there are requirements besides python packages, this will be mentioned in 
 the docs. 
+
+# Credits
+
+The LaTeX functionality for Binder was taken from https://github.com/m-weigand/binder-example-latex-mpl
