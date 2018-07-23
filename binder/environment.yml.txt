@@ -1,18 +1,19 @@
+name: example-environment
 channels:
-- conda-forge
+	- conda-forge
 dependencies:
-- jupyterlab=0.32.1
-- nodejs=8.9
-- notebook=5.4
-- nbconvert=5.3
-- ipykernel=4.7
-- ipywidgets=7.2
-- widgetsnbextension=3.2
-- pandas=0.20
-- python=3.6
-- scikit-image=0.13
-- scikit-learn=0.18
-- seaborn=0.7
-- sympy=1.0
-- Pillow=5.1.0
-- matplotlib=2.2.2
+	- jupyterlab=0.32.1
+	- nodejs=8.9
+	- notebook=5.4
+	- nbconvert=5.3
+	- ipykernel=4.7
+	- ipywidgets=7.2
+	- widgetsnbextension=3.2
+	- pandas=0.20
+	- python=3.6
+	- scikit-image=0.13
+	- scikit-learn=0.18
+	- seaborn=0.7
+	- sympy=1.0
+	- Pillow=5.1.0
+	- matplotlib=2.2.2
