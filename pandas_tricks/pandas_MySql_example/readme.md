@@ -1,6 +1,6 @@
 # Minimal example on how to use pandas with a MySql database
 
-For this example to work crossplatform it uses [Docker](https://www.docker.com/get-started) to run the MySql database. Install Docker and run the following command in this directory to start the database server. 
+For this example to work crossplatform it uses [Docker](https://www.docker.com/get-started) to run the MySql database. Install [Docker-compose](https://docs.docker.com/compose/install/) and run the following command in this directory to start the database server. 
 
 `docker-compose up -d`
 
