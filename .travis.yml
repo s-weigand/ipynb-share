@@ -1,0 +1,7 @@
+# travis
+sudo: false
+
+script:
+  # Use Binder build API to trigger repo2docker to build image on GKE and OVH Binder Federation clusters
+  - bash binder/trigger_binder.sh https://gke.mybinder.org/build/gh/s-weigand/ipynb-share/master
+  - bash binder/trigger_binder.sh https://ovh.mybinder.org/build/gh/s-weigand/ipynb-share/master
